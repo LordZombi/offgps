@@ -1,5 +1,7 @@
 # offgps
 
+https://offgps.now.sh
+
 ## Project setup
 ```
 npm install
